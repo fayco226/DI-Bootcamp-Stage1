@@ -1,0 +1,41 @@
+body{
+	background-color: rgb(226,172,127);
+}
+
+ul, li {
+	text-align: center;
+	list-style: none;
+	font-style: italic;
+}
+
+span{
+	font-size: 20px;
+	font-weight: 900;
+}
+
+h1{
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	text-align: center;
+	border-bottom: 5px dotted;
+	font-style: italic;  
+	font-weight: 1500;
+
+}
+
+#wrap{
+	width: 500px;
+	margin: auto;
+	border: 5px dotted ;
+	padding-left: 9px;
+	padding-top: 0px;
+	padding-bottom: 9px;
+	padding-right: 9px;
+	background: rgb(245,245,220);
+}
+
+.copyright{
+	font-size: x-small;
+	text-align: center;
+}
