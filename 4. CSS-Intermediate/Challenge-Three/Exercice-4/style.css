@@ -1,0 +1,59 @@
+section{
+	display: flex;
+	flex-wrap: warp;
+}
+
+main{
+	display: flex;
+	flex-wrap: warp;
+}
+
+
+.heading {
+
+    background: purple;
+    width: 99%;
+    height: 200px;
+    margin-bottom: 30px;
+}
+
+section  div {
+	height:200px;
+    width: 100%;
+    margin: 2.1%;
+
+}
+
+main div {
+	height:200px;
+    width: 100%;
+    margin: 2.1%;
+
+}
+
+
+div {
+    border: 3px solid black;
+}
+
+.col-right {
+    background-color: orange;
+    width: 100%;
+}
+
+.col-mid {
+    background-color: lightgreen;
+    width: 100%;
+}
+
+.col-left {
+    background-color: maroon;
+    width: 100%;
+}
+
+
+.col img {
+    width: 100%;
+    height: inherit;
+}
+

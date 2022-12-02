@@ -2,12 +2,12 @@
 	background-color: rgb(85, 204, 255);
 }
 
-ul, li {
+ul {
 	text-align: center;
 	list-style: none;
 }
 
-span{
+li:first-letter{
 	font-size: 20px;
 	font-weight: 900;
 }

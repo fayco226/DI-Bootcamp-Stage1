@@ -1,0 +1,33 @@
+.col-4 {
+    border: 3px solid black;
+    width: 33%;
+}
+
+.col-6 {
+    border: 3px solid black;
+    width: 50%;
+}
+
+.col-12 {
+    border: 3px solid black;
+    width: 100%;
+}
+
+@media (min-width: 765px) and (max-width: 960px){
+    .col-4 {
+        width: 50%;
+        border: 3px solid black;
+    }
+
+    .col-6 {
+        width: 100%;
+        border: 3px solid black;
+    }
+}
+
+@media (max-width: 765px){
+    .col-4 {
+        width: 100%;
+        border: 3px solid black;
+    }
+}
