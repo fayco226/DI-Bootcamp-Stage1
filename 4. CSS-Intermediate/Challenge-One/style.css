@@ -1,0 +1,54 @@
+body{
+	background-color: rgb(54,67,113);
+}
+
+#ff{
+	
+}
+
+#nav {
+    width: 175px;
+    float: left;
+    height: 400px;
+    text-align: center;
+    background: rgb(176,207,255);
+}
+
+#f{
+    list-style: none;
+}
+
+h1{
+    text-align: center;
+}
+
+fff{
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+#wrap{
+	width: 90%;
+	margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    
+	text-align: center;
+	
+}
+
+#content{
+    background: rgb(91,127,189);
+    height: 400px;
+    text-align: center;
+
+}
+
+
+
+
+.copyright{
+	z-index: 10;
+	text-align: center;
+}
